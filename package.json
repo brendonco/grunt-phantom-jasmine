@@ -1,0 +1,44 @@
+{
+  "name": "grunt-phantom-jasmine",
+  "description": "Run jasmine specs headlessly through PhantomJS.",
+  "version": "0.1.0",
+  "homepage": "https://github.com/brendonco/grunt-phantom-jasmine",
+  "author": {
+    "name": "Brendon Co",
+    "email": "brendonco@hotmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/brendonco/grunt-phantom-jasmine.git"
+  },
+  "bugs": {
+    "url": "https://github.com/brendonco/grunt-phantom-jasmine/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/brendonco/grunt-phantom-jasmine/blob/master/LICENSE-MIT"
+    }
+  ],
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "devDependencies": {
+    "grunt-contrib-jshint": "^0.9.2",
+    "grunt-contrib-clean": "^0.5.0",
+    "grunt-contrib-nodeunit": "^0.3.3",
+    "grunt": "~0.4.5"
+  },
+  "keywords": [
+    "gruntplugin",
+    "jasmine",
+    "reporter",
+    "bdd",
+    "spec",
+    "protractor",
+    "phantomjs"
+  ]
+}
