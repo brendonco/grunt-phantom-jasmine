@@ -25,10 +25,7 @@ In your project's Gruntfile, add a section named `phantom_jasmine` to the data o
 ```js
 grunt.initConfig({
   phantom_jasmine: {
-    command: {
-      // Task-specific options go here.
-      vendor/phantomjs-2.1.1-macosx/bin/phantomjs tasks/lib/runjasmine2.js remote url
-    }
+    command: 'vendor/phantomjs-2.1.1-macosx/bin/phantomjs tasks/lib/runjasmine2.js remote url'
   }
 });
 ```
