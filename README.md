@@ -38,4 +38,6 @@ Run this task with the `grunt phantom_jasmine` command.
 * remote url: e.g. http://localhost:8080/test/SpecRunner.html
 
 ## Release History
+* 2016-10-14   v0.1.2   Official Release.
+* 2016-10-14   v0.1.1   Fixed grunt configuration for finding phantomjs.
 * 2016-09-25   v0.1.0   Work in progress, not yet officially released.
