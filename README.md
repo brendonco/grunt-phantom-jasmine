@@ -37,9 +37,11 @@ Run this task with the `grunt phantom_jasmine` command.
 * runjasmine2.js: redirect the output to console.
 * remote url: e.g. http://localhost:8080/test/SpecRunner.html
 
-#### How to use grunt-phantom-jasmine can be found at (testing-grunt-phantom-jasmine)[https://github.com/brendonco/testing-grunt-phantom-jasmine].
+#### Howto
+How to use grunt-phantom-jasmine can be found at [testing-grunt-phantom-jasmine](https://github.com/brendonco/testing-grunt-phantom-jasmine).
 
 ## Release History
+* 2016-10-14   v0.1.4   Include how to use grunt-phantom-jasmine in readme.
 * 2016-10-14   v0.1.2   Official Release.
 * 2016-10-14   v0.1.1   Fixed grunt configuration for finding phantomjs.
 * 2016-09-25   v0.1.0   Work in progress, not yet officially released.
