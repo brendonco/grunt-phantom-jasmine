@@ -1,5 +1,7 @@
 # grunt-phantom-jasmine
 
+##Drop me a line if your interested to contribute.
+
 > Run jasmine specs headlessly through PhantomJS.
 
 ## Getting Started
